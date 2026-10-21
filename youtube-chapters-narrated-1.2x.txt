@@ -1,0 +1,28 @@
+0:00 Intro
+0:08 The stage and the machinery
+0:24 The invisible journey loop
+0:48 The physical internet
+1:07 The browser as a translator
+1:19 The web property blueprint
+1:34 The hosting real estate matrix
+1:52 The foundational triad
+2:07 The web evolution timeline
+2:24 Components, the secret of modern websites
+2:36 React, the component engine
+2:51 The vehicle formula
+3:00 The front-end toolkit
+3:12 Where designers and developers meet
+3:27 The modern stack matrix
+3:42 The vibe coder translation guide
+3:58 The vibe coder's command
+4:08 The power of movement
+4:24 The language of animation
+4:40 Easing, the personality of movement
+4:53 GSAP, the Hollywood camera crew
+5:10 Anime.js and Framer Motion
+5:26 Lottie and Rive
+5:42 Smooth scrolling and parallax
+5:56 ScrollTrigger
+6:13 Three levels of animation
+6:28 Creative director translation
+6:42 The NagaVision rule

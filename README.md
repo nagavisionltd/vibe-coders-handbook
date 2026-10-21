@@ -13,10 +13,11 @@ npm install
 npm run narrate -- --dry-run
 npm run narrate
 npm run render
+npm run assemble:full
 ```
 
 The script reads `part1-the-digital-universe.srt`, `part2-the-modern-frontend.srt`, and `part3-motion-and-magic.srt` by default, and writes MP3 narration to `audio/voiceovers/`. You can pass specific SRT paths as arguments. Generation uses ElevenLabs credits. `scripts/render-narrated-videos.py` creates 1.2× MP4s with retimed subtitles and the matching narration audio.
 
 ## Video exports
 
-The original silent MP4s are retained unchanged. The `-narrated-1.2x.mp4` exports use 1.2× picture speed, the matching narration audio, and retimed embedded subtitles. Corresponding retimed SRT sidecars are included alongside the MP4s.
+The original silent MP4s are retained unchanged. The `-narrated-1.2x.mp4` exports use 1.2× picture speed, the matching narration audio, and retimed embedded subtitles. Corresponding retimed SRT sidecars are included alongside the MP4s. `npm run assemble:full` joins the three processed parts and creates a full-length narrated version, a matching subtitle file, and retimed YouTube chapters. Copy-ready YouTube and TikTok titles, descriptions, keywords, and hashtags are in `UPLOAD-METADATA.md`.

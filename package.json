@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "narrate": "node scripts/generate-narration.mjs",
-    "render": "python3 scripts/render-narrated-videos.py"
+    "render": "python3 scripts/render-narrated-videos.py",
+    "assemble:full": "python3 scripts/assemble-full-video.py"
   },
   "dependencies": {
     "@elevenlabs/elevenlabs-js": "^2.74.0"
