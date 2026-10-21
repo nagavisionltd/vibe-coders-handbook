@@ -1,0 +1,167 @@
+1
+00:00:00,150 --> 00:00:01,493
+Chapter two.
+
+2
+00:00:01,493 --> 00:00:04,850
+The modern front-end universe.
+
+3
+00:00:05,480 --> 00:00:08,244
+The web has evolved in three eras.
+
+4
+00:00:08,244 --> 00:00:08,732
+Web 1.
+
+5
+00:00:08,732 --> 00:00:11,415
+0 was static, a digital brochure.
+
+6
+00:00:11,415 --> 00:00:11,902
+Web 2.
+
+7
+00:00:11,902 --> 00:00:15,642
+0 became interactive: log in, upload, comment.
+
+8
+00:00:15,642 --> 00:00:16,130
+Web 3.
+
+9
+00:00:16,130 --> 00:00:20,520
+0 is intelligent, where the website becomes a partner.
+
+10
+00:00:21,420 --> 00:00:24,231
+Modern websites aren't painted page by page.
+
+11
+00:00:24,231 --> 00:00:27,617
+They're assembled like LEGO from reusable components.
+
+12
+00:00:27,617 --> 00:00:34,580
+Instead of rebuilding the whole spaceship, you build an engine, a cockpit and wings, then snap them together.
+
+13
+00:00:35,540 --> 00:00:40,513
+React, created by Meta, is the engine that builds interfaces from components.
+
+14
+00:00:40,513 --> 00:00:46,325
+Think of a streaming app: profiles, a video player, recommendations, each one a component.
+
+15
+00:00:46,325 --> 00:00:47,487
+Without it, chaos.
+
+16
+00:00:47,487 --> 00:00:48,456
+With it, order.
+
+17
+00:00:48,456 --> 00:00:50,329
+So don't say, make a website.
+
+18
+00:00:50,329 --> 00:00:52,460
+Ask for a React component system.
+
+19
+00:00:53,330 --> 00:00:54,818
+React is the engine.
+
+20
+00:00:54,818 --> 00:00:55,190
+Next.
+
+21
+00:00:55,190 --> 00:01:01,215
+js is the complete vehicle, adding routing, performance, SEO and server features.
+
+22
+00:01:01,215 --> 00:01:03,670
+Together, a production-ready app.
+
+23
+00:01:04,450 --> 00:01:10,924
+TypeScript is the safety net: JavaScript says trust me, TypeScript says let's check first.
+
+24
+00:01:10,924 --> 00:01:14,162
+Vue is the approachable alternative to React.
+
+25
+00:01:14,162 --> 00:01:18,550
+And Tailwind is the speed stylist, which AI generates easily.
+
+26
+00:01:19,510 --> 00:01:23,012
+A design system is where designers and developers meet.
+
+27
+00:01:23,012 --> 00:01:24,985
+Without one, AI produces chaos.
+
+28
+00:01:24,985 --> 00:01:27,914
+With one, it speaks in mathematical precision.
+
+29
+00:01:27,914 --> 00:01:35,490
+Instead of make it look nice, say: use our design system, with rounded cards, 16 pixel spacing, and consistent buttons.
+
+30
+00:01:36,570 --> 00:01:39,896
+Put it together and you have the modern stack.
+
+31
+00:01:39,896 --> 00:01:41,776
+The stage, your front end.
+
+32
+00:01:41,776 --> 00:01:43,584
+The logic, your back end.
+
+33
+00:01:43,584 --> 00:01:45,464
+The memory, your database.
+
+34
+00:01:45,464 --> 00:01:47,850
+And the home, where it all lives.
+
+35
+00:01:47,850 --> 00:01:54,430
+When someone asks for a full-stack developer, this is the architecture they want commanded.
+
+36
+00:01:55,540 --> 00:01:56,899
+Now you can translate.
+
+37
+00:01:56,899 --> 00:02:00,233
+A React component is a reusable visual building block.
+
+38
+00:02:00,233 --> 00:02:04,371
+Responsive design means it adapts across phone, tablet and desktop.
+
+39
+00:02:04,371 --> 00:02:07,705
+A component library is a toolbox of ready-made pieces.
+
+40
+00:02:07,705 --> 00:02:12,460
+And a SaaS application is software people access online, like Canva or Slack.
+
+41
+00:02:13,360 --> 00:02:19,221
+You now speak the language of the internet, browsers, the modern stack and component systems.
+
+42
+00:02:19,221 --> 00:02:24,640
+Next up, chapter three: Motion and Magic, where websites become cinematic experiences.

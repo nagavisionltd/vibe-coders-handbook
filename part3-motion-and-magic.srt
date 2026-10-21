@@ -1,0 +1,275 @@
+1
+00:00:00,150 --> 00:00:01,162
+Chapter three.
+
+2
+00:00:01,162 --> 00:00:02,392
+Motion and magic.
+
+3
+00:00:02,392 --> 00:00:04,850
+Turning websites into experiences.
+
+4
+00:00:05,450 --> 00:00:08,791
+A website is no longer just a collection of pages.
+
+5
+00:00:08,791 --> 00:00:14,605
+Modern websites behave like films, games, interactive installations and digital worlds.
+
+6
+00:00:14,605 --> 00:00:16,342
+Movement guides attention.
+
+7
+00:00:16,342 --> 00:00:18,013
+Movement creates emotion.
+
+8
+00:00:18,013 --> 00:00:19,550
+Movement tells a story.
+
+9
+00:00:20,570 --> 00:00:23,280
+Before the tools, learn the vocabulary.
+
+10
+00:00:23,280 --> 00:00:26,338
+A transition is a change between two states.
+
+11
+00:00:26,338 --> 00:00:30,438
+A hover is an interaction when a cursor lands on something.
+
+12
+00:00:30,438 --> 00:00:35,511
+Micro-interactions are tiny animations that make an interface feel alive.
+
+13
+00:00:35,511 --> 00:00:38,430
+And easing is the personality of movement.
+
+14
+00:00:39,480 --> 00:00:42,323
+Easing is the personality of movement.
+
+15
+00:00:42,323 --> 00:00:44,194
+Linear is constant speed.
+
+16
+00:00:44,194 --> 00:00:45,017
+Mechanical.
+
+17
+00:00:45,017 --> 00:00:47,935
+Ease-in starts slowly, building energy.
+
+18
+00:00:47,935 --> 00:00:49,956
+Ease-out slows down gently.
+
+19
+00:00:49,956 --> 00:00:50,554
+Natural.
+
+20
+00:00:50,554 --> 00:00:54,520
+And spring feels physical, like an object has weight.
+
+21
+00:00:55,600 --> 00:01:00,815
+GSAP, the GreenSock Animation Platform, is the Hollywood camera crew of websites.
+
+22
+00:01:00,815 --> 00:01:05,773
+It controls position, scale, rotation, opacity, colour, timing and sequences.
+
+23
+00:01:05,773 --> 00:01:07,640
+One hero section, five moves.
+
+24
+00:01:07,640 --> 00:01:08,799
+The logo fades in.
+
+25
+00:01:08,799 --> 00:01:09,764
+Text slides up.
+
+26
+00:01:09,764 --> 00:01:11,310
+The image zooms forward.
+
+27
+00:01:11,310 --> 00:01:12,404
+Particles appear.
+
+28
+00:01:12,404 --> 00:01:13,563
+The button pulses.
+
+29
+00:01:13,563 --> 00:01:14,400
+One timeline.
+
+30
+00:01:15,570 --> 00:01:15,985
+Anime.
+
+31
+00:01:15,985 --> 00:01:24,015
+js is lighter than GSAP, a beautifully animated short film, perfect for logos, menus and cards appearing one by one.
+
+32
+00:01:24,015 --> 00:01:26,300
+Framer Motion is built for React.
+
+33
+00:01:26,300 --> 00:01:29,830
+A card enters from below, fading in and scaling up.
+
+34
+00:01:29,830 --> 00:01:33,430
+Perfect for page transitions, modals and dashboards.
+
+35
+00:01:34,570 --> 00:01:38,819
+Lottie exports After Effects animations as JSON files.
+
+36
+00:01:38,819 --> 00:01:42,517
+Perfect for mascots, loading screens and icons.
+
+37
+00:01:42,517 --> 00:01:44,798
+It says: play this animation.
+
+38
+00:01:44,798 --> 00:01:47,237
+Rive is its interactive cousin.
+
+39
+00:01:47,237 --> 00:01:49,519
+It says: respond to the user.
+
+40
+00:01:49,519 --> 00:01:52,430
+A character reacts when you click it.
+
+41
+00:01:53,510 --> 00:01:56,860
+Smooth scrolling makes a website feel expensive.
+
+42
+00:01:56,860 --> 00:01:58,534
+Default scrolling jumps.
+
+43
+00:01:58,534 --> 00:02:04,466
+Premium sites glide, with tools like Lenis, Locomotive Scroll and GSAP ScrollTrigger.
+
+44
+00:02:04,466 --> 00:02:05,861
+Parallax adds depth.
+
+45
+00:02:05,861 --> 00:02:07,676
+The background moves slow.
+
+46
+00:02:07,676 --> 00:02:09,490
+The foreground moves fast.
+
+47
+00:02:10,630 --> 00:02:13,839
+ScrollTrigger connects animation to scrolling.
+
+48
+00:02:13,839 --> 00:02:16,210
+At zero percent, the hero appears.
+
+49
+00:02:16,210 --> 00:02:18,512
+At twenty-five, the text reveals.
+
+50
+00:02:18,512 --> 00:02:20,605
+At fifty, the product rotates.
+
+51
+00:02:20,605 --> 00:02:23,883
+At seventy-five, the feature section activates.
+
+52
+00:02:23,883 --> 00:02:26,882
+At one hundred, the call to action appears.
+
+53
+00:02:26,882 --> 00:02:30,370
+This is how many award-winning websites are built.
+
+54
+00:02:31,540 --> 00:02:33,685
+There are three levels of animation.
+
+55
+00:02:33,685 --> 00:02:38,511
+Level one is functional: useful movement, like buttons, menus and loading states.
+
+56
+00:02:38,511 --> 00:02:43,873
+Level two is premium, adding personality: smooth transitions, hover effects, page reveals.
+
+57
+00:02:43,873 --> 00:02:48,460
+Level three is cinematic: storytelling scroll, 3D scenes, interactive worlds.
+
+58
+00:02:49,480 --> 00:02:51,579
+Creative director translation.
+
+59
+00:02:51,579 --> 00:02:52,908
+GSAP ScrollTrigger?
+
+60
+00:02:52,908 --> 00:02:56,265
+Make scrolling behave like a cinematic sequence.
+
+61
+00:02:56,265 --> 00:02:57,245
+Framer Motion?
+
+62
+00:02:57,245 --> 00:02:59,693
+Add beautiful React-based movement.
+
+63
+00:02:59,693 --> 00:03:01,022
+Micro-interactions?
+
+64
+00:03:01,022 --> 00:03:04,520
+Add tiny moments that make the product feel alive.
+
+65
+00:03:05,510 --> 00:03:07,039
+The NagaVision rule.
+
+66
+00:03:07,039 --> 00:03:08,798
+A good website informs.
+
+67
+00:03:08,798 --> 00:03:10,709
+A great website performs.
+
+68
+00:03:10,709 --> 00:03:18,432
+The future belongs to experiences that combine design, motion, sound, interaction, A I, 3D and story.
+
+69
+00:03:18,432 --> 00:03:21,490
+Next up, Chapter 4: the third dimension.
