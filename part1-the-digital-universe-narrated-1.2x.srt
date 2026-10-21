@@ -1,0 +1,147 @@
+1
+00:00:00,225 --> 00:00:07,275
+This is The Vibe Coder's Handbook, a visual guide to commanding AI and modern developers.
+
+2
+00:00:08,000 --> 00:00:09,637
+Apple doesn't sell websites.
+
+3
+00:00:09,637 --> 00:00:11,157
+Nike doesn't sell buttons.
+
+4
+00:00:11,157 --> 00:00:12,735
+Spotify doesn't sell menus.
+
+5
+00:00:12,735 --> 00:00:14,021
+They sell experiences.
+
+6
+00:00:14,021 --> 00:00:17,470
+The front end is the stage, where technology meets emotion.
+
+7
+00:00:17,470 --> 00:00:23,667
+The code is the machinery behind the curtain, and to build experiences, you must understand the machinery.
+
+8
+00:00:24,292 --> 00:00:25,497
+Chapter one.
+
+9
+00:00:25,497 --> 00:00:28,208
+How the web actually works.
+
+10
+00:00:28,933 --> 00:00:31,166
+When you tap an app, it feels instant.
+
+11
+00:00:31,166 --> 00:00:35,337
+But behind that single tap is a conversation between dozens of systems.
+
+12
+00:00:35,337 --> 00:00:44,796
+Your request travels from the user, to the device, to the browser, across the internet, to a server, into a database, through code, and back again as a response.
+
+13
+00:00:44,796 --> 00:00:47,733
+The Vibe Coder understands this invisible journey.
+
+14
+00:00:48,883 --> 00:00:50,618
+The internet is three things.
+
+15
+00:00:50,618 --> 00:00:54,448
+The client, the thing asking for information, like your browser.
+
+16
+00:00:54,448 --> 00:00:57,081
+The server, the computer waiting to respond.
+
+17
+00:00:57,081 --> 00:01:00,013
+And the network, the roads connecting everything.
+
+18
+00:01:00,013 --> 00:01:02,228
+And no, the internet isn't the cloud.
+
+19
+00:01:02,228 --> 00:01:06,117
+The cloud is just someone else's computer wearing a fancy jacket.
+
+20
+00:01:07,042 --> 00:01:08,720
+A browser is a translator.
+
+21
+00:01:08,720 --> 00:01:10,722
+Humans see a beautiful website.
+
+22
+00:01:10,722 --> 00:01:13,433
+The browser sees HTML, CSS and JavaScript.
+
+23
+00:01:13,433 --> 00:01:18,792
+Its engine, Blink, WebKit or Gecko, takes raw code and turns it into an experience.
+
+24
+00:01:19,617 --> 00:01:21,580
+Think of a website like property.
+
+25
+00:01:21,580 --> 00:01:27,768
+The domain is the signpost, a human-friendly address, so you never have to remember a string of numbers.
+
+26
+00:01:27,768 --> 00:01:31,337
+Hosting is the plot and the building, where your files live.
+
+27
+00:01:31,337 --> 00:01:33,717
+And the website is the furniture inside.
+
+28
+00:01:34,692 --> 00:01:36,482
+Hosting comes in three flavours.
+
+29
+00:01:36,482 --> 00:01:40,008
+Shared hosting is an apartment building, great for small sites.
+
+30
+00:01:40,008 --> 00:01:43,308
+A VPS is a townhouse, a private slice of a powerful server.
+
+31
+00:01:43,308 --> 00:01:47,113
+Cloud hosting is a limitless hotel, built for apps and high traffic.
+
+32
+00:01:47,113 --> 00:01:51,142
+Control the hosting, and you become the ecosystem, not just the builder.
+
+33
+00:01:52,117 --> 00:01:54,255
+Every webpage stands on three layers.
+
+34
+00:01:54,255 --> 00:01:58,358
+HTML is the skeleton, deciding what is a heading, an image or a button.
+
+35
+00:01:58,358 --> 00:02:01,998
+CSS is the interior design: colours, spacing, fonts and layout.
+
+36
+00:02:01,998 --> 00:02:03,963
+And JavaScript is the electricity.
+
+37
+00:02:03,963 --> 00:02:06,217
+Without it, a website is just a poster.

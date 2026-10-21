@@ -1,0 +1,16 @@
+{
+  "name": "vibe-coders-handbook-media",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "narrate": "node scripts/generate-narration.mjs",
+    "render": "python3 scripts/render-narrated-videos.py"
+  },
+  "dependencies": {
+    "@elevenlabs/elevenlabs-js": "^2.74.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
